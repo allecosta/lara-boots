@@ -12,14 +12,13 @@
 1. Defina as variáveis de ambiente em `.laravel.env`
 1. ▶ Run
 
-**Para teste utilizei a plataforma replit**
-**O Laravel não suporta o banco de dados do replit, então você tem que usar um banco de dados externo :(**
+**Para teste utilizei a plataforma replit. O Laravel não suporta o banco de dados do replit, então você tem que usar um banco de dados externo :(**
 
 ----
 
 ## Sobre o Projeto
 
-É um projeto básico, apenas para estudo e conhecimento do framenwork. É uma tabela que lista alguns cursos (com links) que tenho estudado no momento sobre esse ecossistema. Mas a medida que for evoluindo irei atualizar e quem sabe utiliza-lo para o outro fim, inclusive utilizando base de dados, enfim, o objetivo mesmo é o aprendizado :-). 
+É um projeto básico, apenas para estudos e conhecimento do framework. É uma tabela que lista alguns cursos (com links) que tenho estudado no momento sobre esse ecossistema. Mas a medida que for evoluindo irei atualizar e quem sabe utiliza-lo para o outro fim, inclusive utilizando base de dados, enfim, o objetivo mesmo é o aprendizado :-). 
 
 ## Learning Laravel
 
