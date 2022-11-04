@@ -89,7 +89,11 @@
 	          </tr>
 	          <tr>
 	            <td>Laravel 9 From Scratch</td>
-	            <td>Roland Mendel</td>
+	            <td>
+					<a href="https://youtu.be/MYyJ4PuL4pY">
+						https://youtu.be/MYyJ4PuL4pY
+					</a>
+				</td>
 	          </tr>
 	          <tr>
 	            <td>Island Trading</td>
