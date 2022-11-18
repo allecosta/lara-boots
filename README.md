@@ -18,7 +18,9 @@
 
 ## Sobre o Projeto
 
-É um projeto básico, apenas para estudos e conhecimento do framework. É uma tabela que lista alguns cursos (com links) que tenho estudado no momento sobre esse ecossistema. Mas a medida que for evoluindo irei atualizar e quem sabe utiliza-lo para o outro fim, inclusive utilizando base de dados, enfim, o objetivo mesmo é o aprendizado :-). 
+É um projeto básico, apenas para estudos e conhecimento do framework Laravel. 
+Projeto base em Laravel 9. Repositório utilizado para aplicar features do framework Bootstrap.
+Mas a medida que for evoluindo irei atualizar e quem sabe utiliza-lo para um outro fim, inclusive utilizando base de dados, enfim, o objetivo mesmo é o aprendizado :-). 
 
 ## Learning Laravel
 
